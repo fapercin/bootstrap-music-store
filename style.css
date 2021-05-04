@@ -1,0 +1,14 @@
+body {
+    background-color: #E9ECEF;
+}
+ul>li {
+    padding: 10px;
+
+}
+
+.card-img-top {
+    height: 20em;
+    object-fit: contain!important;
+}
+
+/* as a bootstrap project, i tried my best not to use raw css */
